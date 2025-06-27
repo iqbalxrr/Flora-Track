@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -65,5 +64,29 @@
       "water": "Every 2–3 weeks (do not overwater)"
     },
     "image_url": "https://iili.io/3ilxrBV.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rubber Plant",
+    "scientific_name": "Ficus elastica",
+    "description": "Large, glossy leaves that add a bold touch to indoor spaces. Air-purifying and stylish.",
+    "care": {
+      "light": "Bright, indirect light",
+      "water": "Once a week (allow topsoil to dry)"
+    },
+    "image_url": "https://i.ibb.co/XrQy16JQ/images.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Boston Fern",
+    "scientific_name": "Nephrolepis exaltata",
+    "description": "Lush green fronds with a feathery appearance. Great for humid environments.",
+    "care": {
+      "light": "Indirect light or partial shade",
+      "water": "Keep soil consistently moist"
+    },
+    "image_url": "https://i.ibb.co/F4L2NQXD/Nephrolepis-exaltata-Bostoniensis-Boston-Fern-Hanging-1200x.jpg"
   }
 ]
+
+

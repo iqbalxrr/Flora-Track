@@ -38,7 +38,7 @@ const RecentAdd = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-7 lg:px-10 px-6  pt-10 mt-5">
         {[...plants]
           .reverse()
-          .slice(0, 6)
+          .slice(0, 8)
           .map((plant ) => (
             <RecentAddCard key={plant._id}  plant={plant}></RecentAddCard>
           ))}
