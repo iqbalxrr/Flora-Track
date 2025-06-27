@@ -29,7 +29,9 @@ const AllPlantsPage = () => {
         : "https://b11-a10-assignment-server.vercel.app/plants";
       const res = await fetch(url);
       const data = await res.json();
-      setPlants(data);
+
+      // ✅ Reverse the data so newest comes first
+      setPlants(data.reverse());
     } catch (err) {
       console.error("Failed to load plants:", err);
     } finally {
