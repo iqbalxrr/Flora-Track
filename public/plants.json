@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": 1,
+    "name": "Snake Plant",
+    "scientific_name": "Sansevieria",
+    "description": "Tall, upright leaves with striking green patterns. Great for air purification.",
+    "care": {
+      "light": "Low to bright indirect light",
+      "water": "Every 2–3 weeks (allow soil to dry out)"
+    },
+    "image_url": "https://iili.io/3ilz94I.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pothos",
+    "scientific_name": "Epipremnum aureum",
+    "description": "Fast-growing vine with heart-shaped green or variegated leaves.",
+    "care": {
+      "light": "Low to medium indirect light",
+      "water": "Once a week or when soil feels dry"
+    },
+    "image_url": "https://iili.io/3ilx4EB.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Peace Lily",
+    "scientific_name": "Spathiphyllum",
+    "description": "Glossy green leaves with elegant white flowers. Improves indoor air.",
+    "care": {
+      "light": "Medium to low light",
+      "water": "Keep soil lightly moist"
+    },
+    "image_url": "https://iili.io/3ilx6rP.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ZZ Plant",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "description": "Shiny, dark green leaves with thick stems. Very low-maintenance.",
+    "care": {
+      "light": "Low to bright indirect light",
+      "water": "Every 2–3 weeks"
+    },
+    "image_url": "https://iili.io/3ilx8Ij.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spider Plant",
+    "scientific_name": "Chlorophytum comosum",
+    "description": "Green leaves with white stripes. Produces baby plants easily.",
+    "care": {
+      "light": "Bright, indirect light",
+      "water": "Once a week"
+    },
+    "image_url": "https://iili.io/3ilxbQR.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis miller",
+    "description": "Succulent with thick, healing leaves. Drought-tolerant and useful.",
+    "care": {
+      "light": "Bright, indirect sunlight",
+      "water": "Every 2–3 weeks (do not overwater)"
+    },
+    "image_url": "https://iili.io/3ilxrBV.jpg"
+  }
+]
